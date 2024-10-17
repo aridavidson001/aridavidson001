@@ -1,9 +1,11 @@
 # Hi, I'm Ari 🤙
+
+## Tools I use
 ### Languages 
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
 ### UIs
   [![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev) 
-  Other 
+### Other 
   [![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) 
 
 ## Current Projects
