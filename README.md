@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I'm Working On
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **aridavidson001/aridavidson001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
