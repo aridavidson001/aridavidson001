@@ -16,6 +16,8 @@
 
 
 ## Tools I'm comfortable with
+  [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,flutter,qt,react,firebase,opencv,git,gradle)](https://skillicons.dev)
+
 ### Languages 
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
 ### UIs
