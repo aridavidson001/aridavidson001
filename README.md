@@ -2,10 +2,9 @@
 
  |  Tools I use |  Current Projects |
  | --------       |  ------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024) |
+| Languages </br> [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev) </br>  UIs </br> [![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev) </br> Other </br>[![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024) |
 ## 📈 Stats
-Languages </br> [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev) </br>  UIs </br> [![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev) </br> Other </br>[![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) | [![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridavidson001&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-## What I'm Currently Working On
+ [![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridavidson001&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get In Touch!
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridavidson00@gmail.com)
