@@ -1,4 +1,4 @@
-# Hi, I'm Ari
+# Hi, I'm Ari 🤙
 
 ## Tools I use
 ### Languages
