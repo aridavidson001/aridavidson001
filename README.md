@@ -1,6 +1,6 @@
 # Hi, I'm Ari 🤙
 
-## | Tools I use | 📈 Stats |
+ | ## Tools I use | ## 📈 Stats |
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
 
