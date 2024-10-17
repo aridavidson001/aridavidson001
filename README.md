@@ -8,7 +8,7 @@
 ### Other 
   [![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) 
 
-## Current Projects
+##  What I'm working on right now
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024)
 
 ## 📈 Stats
