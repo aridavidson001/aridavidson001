@@ -1,7 +1,9 @@
 # Hi, I'm Ari
 
 ## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,firebase,arduino,opencv,powershell,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,firebase,arduino,opencv,powershell)](https://skillicons.dev)
+
+
 [![My Skills](https://skillicons.dev/icons?=flutter,qt,react)](https://skillicons.dev)
 ## 📈 Stats
 
