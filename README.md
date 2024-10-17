@@ -18,11 +18,17 @@
 
 
 ## 📈 Stats
-[![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridavidson001&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham)](https://git.io/streak-stats) 
-[![Ari's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aridavidson001&show_icons=true&theme=gotham&card_width=100&hide_title=true"/>
+</a>
+
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham&layout=donut&card_width=100)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham&layout=donut&card_width=100"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham&layout=donut&card_width=](https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham&hide_title=true100" />
+</a>
 
 ## Some Languages, Tools, and Frameworks I'm comfortable with
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,flutter,qt,react,firebase,opencv,git,gradle)](https://skillicons.dev)
