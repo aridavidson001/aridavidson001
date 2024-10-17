@@ -1,4 +1,4 @@
-# Hi, I'm Ari 🤙
+# Hey, I'm Ari 🤙
 ### **I'm a high school junior and a member of my robotics team. I'm passionate about computer science and love exploring programming and technology.**
 
 **Check out my projects, and let's connect! 🚀**
