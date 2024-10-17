@@ -1,6 +1,6 @@
 # Hi, I'm Ari 🤙
 
-## Tools I use
+## These are some of the tools I regularly use
 ### Languages 
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
 ### UIs
