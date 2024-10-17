@@ -1,5 +1,5 @@
 # Hi, I'm Ari 🤙
-<div align="center">
+<div align="center", markdown="1">
 |  Tools I use |  Current Projects |
 | :--------:       |  :-------: |
 | Languages </br> [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev) </br>  UIs </br> [![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev) </br> Other </br>[![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024) |
