@@ -20,7 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024)
 
 ## Get In Touch!
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=gotham)](https://mailto:aridavidson00@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridavidson00@gmail.com)
 <!--
 **aridavidson001/aridavidson001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
