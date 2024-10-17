@@ -15,7 +15,7 @@
 [![Ari's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tools I'm comfortable with
+## Some Languages, Tools, and Frameworks I'm comfortable with
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,flutter,qt,react,firebase,opencv,git,gradle)](https://skillicons.dev)
 
 
