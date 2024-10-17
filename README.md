@@ -18,13 +18,6 @@
 ## Tools I'm comfortable with
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,flutter,qt,react,firebase,opencv,git,gradle)](https://skillicons.dev)
 
-### Languages 
-  [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
-### UIs
-  [![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev) 
-### Other 
-  [![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) 
-
 
 ## Get In Touch!
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridavidson00@gmail.com)
