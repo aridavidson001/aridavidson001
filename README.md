@@ -1,6 +1,6 @@
 # Hi, I'm Ari 🤙
 
-## These are some of the tools I regularly use
+## These are some of the tools I'm comfortable with
 ### Languages 
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
 ### UIs
@@ -8,7 +8,8 @@
 ### Other 
   [![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev) 
 
-##  What I'm working on right now
+
+## What I'm working on right now
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024)
 
 ## 📈 Stats
