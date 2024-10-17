@@ -3,11 +3,11 @@
 
 **Check out my projects, and let's connect! 🚀**
 
-## These are some things I've done
+## Here are a few things I've accomplished
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=Jump-rope-calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/Jump-rope-calculator)
 
 
-## What I'm working on right now
+## Here's what I'm Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TitaniumTigers4829&repo=offseason-robot-code-2024&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024)
 
 
