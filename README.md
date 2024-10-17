@@ -2,7 +2,7 @@
 
 ## Tools I use
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,firebase,arduino,opencv,powershell,)](https://skillicons.dev)
-[![UIs](https://skillicons.dev/icons?=flutter,qt,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?=flutter,qt,react)](https://skillicons.dev)
 ## 📈 Stats
 
 [![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridavidson001&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham)](https://git.io/streak-stats)
