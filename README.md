@@ -1,15 +1,8 @@
 # Hi, I'm Ari 🤙
 
  | ## Tools I use | ## 📈 Stats |
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev)
-
-### UIs
-[![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev)
-
-### Other
-[![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev)
-
+ | --------       |  ------- |
+| ### Languages </br> [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart)](https://skillicons.dev) </br> ### UIs </br> [![My Skills](https://skillicons.dev/icons?i=flutter,qt,react)](https://skillicons.dev) </br> ### Other </br>[![My Skills](https://skillicons.dev/icons?i=firebase,opencv,git,gradle)](https://skillicons.dev)
 
 ## 
 
