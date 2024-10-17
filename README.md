@@ -15,6 +15,10 @@
 ## 📈 Stats
 [![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=aridavidson001&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![Ari's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Things I've done
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=Jump-rope-calculator&theme=gotham&show_owner=true)](https://github.com/TitaniumTigers4829/offseason-robot-code-2024)
+
+
 ## Get In Touch!
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridavidson00@gmail.com)
 <!--
