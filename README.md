@@ -1,6 +1,6 @@
 # Hi, I'm Ari 🤙
-**I'm a high school junior and a member of my robotics team. I'm passionate about computer science and love exploring programming and technology. Check out my projects, and let's connect! 🚀**
-
+**I'm a high school junior and a member of my robotics team. I'm passionate about computer science and love exploring programming and technology.**
+** Check out my projects, and let's connect! 🚀**
 ## These are some things I've done
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=Jump-rope-calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/Jump-rope-calculator)
 
