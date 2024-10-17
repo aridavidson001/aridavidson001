@@ -5,6 +5,9 @@
 
 ## Here are a few things I've accomplished
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=Jump-rope-calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/Jump-rope-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=4829TigerScout&theme=gotham&show_owner=true)](https://github.com/aridavidson001/4829TigerScout
+)
+
 
 
 ## Here's what I'm Currently working on
