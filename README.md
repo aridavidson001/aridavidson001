@@ -1,5 +1,5 @@
 # Hi, I'm Ari 🤙
-
+I'm a junior in high school and a member of FRC Team Titanium Tigers
 ## These are some things I've done
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=Jump-rope-calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/Jump-rope-calculator)
 
