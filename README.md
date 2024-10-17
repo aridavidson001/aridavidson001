@@ -1,3 +1,4 @@
+<center>
 # Hi, I'm Ari 🤙
 
 |  Tools I use |  Current Projects |
@@ -9,6 +10,7 @@
 
 ## Get In Touch!
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridavidson00@gmail.com)
+</center>
 <!--
 **aridavidson001/aridavidson001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
