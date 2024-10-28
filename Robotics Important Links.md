@@ -1,7 +1,3 @@
-### 
-
-# Robotics
-
 # 2024-25 Season
 
 ## Github
