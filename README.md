@@ -13,7 +13,7 @@
 ## Here's what I'm Currently working on
 - Learning Flutter and Swift for app development.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=tigerscout-flutter&theme=gotham&show_owner=true)](https://github.com/aridavidson001/tigerscout-flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=difficulty_calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/difficulty_calculator)
 
 
 ## 📈 Stats
