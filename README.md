@@ -33,7 +33,7 @@
 
 
 ## Some Languages, Tools, and Frameworks I'm comfortable with
-  [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,flutter,qt,react,firebase,opencv,git,gradle)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,html,cpp,dart,flutter,qt,react,firebase,opencv,git,gradle,cmake)](https://skillicons.dev)
 
 
 ## Get In Touch!
