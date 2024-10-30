@@ -18,7 +18,7 @@
 
 ## 📈 Stats
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham"/> <img align="center" src="https://github.com/aridavidson001/github-stats/blob/master/generated/overview.svg" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham"/> <img align="center" src="https://github.com/aridavidson001/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham">
   <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham"/>
