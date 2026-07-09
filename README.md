@@ -1,5 +1,5 @@
 # Hey, I'm Ari 🤙
-### **I'm a high school junior and a member of my robotics team. I'm passionate about computer science and love exploring programming and technology.**
+### **I'm a freshman at the University of Pennsylvania. I'm majoring in Chemical and Biomolecular Engineering, but passionate about computer science and love exploring programming and technology.**
 
 **Check out my projects, and let's connect! 🚀**
 
@@ -34,7 +34,7 @@
 
 
 ## Get In Touch!
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridavidson00@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:aridav@engineering.upenn.edu.com)
 <!--
 **aridavidson001/aridavidson001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
