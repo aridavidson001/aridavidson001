@@ -3,18 +3,15 @@
 
 **Check out my projects, and let's connect! 🚀**
 
-## Here are a few things I've accomplished
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=Jump-rope-calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/Jump-rope-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=4829TigerScout&theme=gotham&show_owner=true)](https://github.com/aridavidson001/4829TigerScout
-)
-
-
 
 ## Here's what I'm Currently working on
-- Learning Flutter and Swift for app development.
+### 🗺️ Atlas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aridavidson001&repo=difficulty_calculator&theme=gotham&show_owner=true)](https://github.com/aridavidson001/difficulty_calculator)
+A local-first academic operating system for learning, knowledge management, and AI-assisted education.
 
+Atlas connects knowledge, planning, and local AI into a modular workflow designed to reduce the friction of learning. Rather than replacing critical thinking, it helps organize information, manage knowledge, and act as an academic tutor while keeping users in control of their data through open, portable, and replaceable technologies.
+
+**Current focus:** Designing the system architecture and validating workflows before implementation.
 
 ## 📈 Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aridavidson001&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=aridavidson001&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)
