@@ -17,15 +17,7 @@
 
 
 ## 📈 Stats
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aridavidson001&theme=gotham"/> <img align="center" src="https://github.com/aridavidson001/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham">
-  <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/wakatime?username=aridavidson001&theme=gotham"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham">
-  <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridavidson001&theme=gotham"/>
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aridavidson001&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=aridavidson001&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)
 
 
 
