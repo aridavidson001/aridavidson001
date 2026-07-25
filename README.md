@@ -7,7 +7,7 @@
 ## Here's what I'm Currently working on
 ### 🗺️ Atlas
 
-A local-first academic operating system for learning, knowledge management, and AI-assisted education.
+Atlas is a user-knowledge-based platform designed to support learning and knowledge management. It integrates best-in-class knowledge, planning, and local AI tools into a modular, privacy-focused workflow.
 
 Atlas connects knowledge, planning, and local AI into a modular workflow designed to reduce the friction of learning. Rather than replacing critical thinking, it helps organize information, manage knowledge, and act as an academic tutor while keeping users in control of their data through open, portable, and replaceable technologies.
 
