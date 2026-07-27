@@ -1,4 +1,4 @@
-# Hey, I'm Ari 🤙
+# Hey, I'm Ari
 ### **I'm a freshman at the University of Pennsylvania. I'm majoring in Chemical and Biomolecular Engineering, but passionate about computer science and love exploring programming and technology.**
 
 **Check out my projects, and let's connect! 🚀**
