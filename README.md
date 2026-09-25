@@ -12,10 +12,11 @@ Atlas is a user-knowledge-based platform designed to support learning and knowle
 Atlas connects knowledge, planning, and local AI into a modular workflow designed to reduce the friction of learning. Rather than replacing critical thinking, it helps organize information, manage knowledge, and act as an academic tutor while keeping users in control of their data through open, portable, and replaceable technologies.
 
 **Current focus:** Designing the system architecture and validating workflows before implementation.
-
-## 📈 Stats
+<!--
+/* ## 📈 Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aridavidson001&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=aridavidson001&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)
 
+-->
 
 
 ## Some Languages, Tools, and Frameworks I'm comfortable with
